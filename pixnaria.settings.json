@@ -1,0 +1,11 @@
+{
+  "dimensions": {
+    "width": 1280,
+    "height": 720
+  },
+  "background": "#090712",
+  "physics": {
+    "gravity": 1350,
+    "jumpForce": 560
+  }
+}
