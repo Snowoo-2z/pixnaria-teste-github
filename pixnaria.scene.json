@@ -1,0 +1,15 @@
+{
+  "rootNodeId": "scene",
+  "nodes": [
+    {
+      "id": "scene",
+      "name": "Scene",
+      "type": "Node2D",
+      "parent": null,
+      "props": {
+        "x": 0,
+        "y": 0
+      }
+    }
+  ]
+}
